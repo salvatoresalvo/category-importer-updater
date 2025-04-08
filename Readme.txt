@@ -1,5 +1,5 @@
 === Importatore e Aggiornatore Categorie con Tag Groups ===
-Collaboratori: Salvatore Iovino (salvatoresalvo)
+Contibutor: Salvatore Iovino (salvatoresalvo)
 Tag: categorie, importazione, csv, tassonomia, termine meta
 Richiede almeno: 5.0
 Testato fino a: 6.4
