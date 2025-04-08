@@ -17,7 +17,7 @@ La sicurezza del nostro plugin è una priorità. Se hai individuato una vulnerab
 ### Come Segnalare
 
 1. **Non divulgare pubblicamente la vulnerabilità** prima che sia stata risolta.
-2. Invia una segnalazione dettagliata via email a [inserisci il tuo indirizzo email] con oggetto "Vulnerabilità di Sicurezza: Importatore Categorie".
+2. Invia una segnalazione dettagliata via email a [info@salvatoreiovino.it] con oggetto "Vulnerabilità di Sicurezza: Importatore Categorie".
 3. Fornisci informazioni dettagliate su:
    - Il tipo di vulnerabilità
    - I passaggi per riprodurre il problema
