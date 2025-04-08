@@ -1,12 +1,12 @@
-=== Category Importer & Updater Personalizzato ===
-Contributors: Salvatore Iovino (seviaggi)
+=== Importatore e Aggiornatore Categorie con Tag Groups ===
+Contributors: Salvatore Iovino (salvatoresalvo)
 Tags: categories, import, csv, taxonomy, term meta
 Requires at least: 5.0
 Tested up to: 6.4
 Stable tag: 1.2.0
 Requires PHP: 7.2
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: GPL v3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Importa e aggiorna facilmente le categorie WordPress da file CSV, con supporto per campi personalizzati come Tag Gruppo.
 
