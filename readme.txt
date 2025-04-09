@@ -4,7 +4,8 @@ URI Plugin: https://github.com/salvatoresalvo/category-importer-updater
 Tag: categorie, importazione, csv, tassonomia, termine meta
 Richiede almeno: 5.0
 Testato fino a: 6.4
-Version: 1.3.0
+Version: 1.4.0
+Stable tag: 1.4.0
 Richiede PHP: 7.2
 License: GPLv2-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -74,4 +75,9 @@ Questa versione corregge la mappatura delle colonne CSV e migliora la gestione d
 
 = 1.3.0 =
 Questa versione corregge ulteriormente la mappatura delle colonne Descrizione e Tag Groups e migliora la gestione dei meta dati.
+
+= 1.4.0 =
+Inserito uno spinner di caricamento accanto al pulsante "Importa Categorie"
+Modificato il codice JS per mostrare/nascondere lo spinner durante le operazioni AJAX
+Aggiunto CSS per lo spinner
                      
